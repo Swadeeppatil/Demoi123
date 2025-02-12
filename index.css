@@ -1,0 +1,20 @@
+#div1{
+    border: 2px solid rgba(0, 0, 0, 0.447);
+    border-radius: 5px;
+    width: 180px;
+}
+#display{
+    margin: 10px;
+    width: 85%;
+    font-size: 25px;
+}
+#bth{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#btn{
+    width: 30px;
+    height: 40px;
+    margin: 3px;
+}
